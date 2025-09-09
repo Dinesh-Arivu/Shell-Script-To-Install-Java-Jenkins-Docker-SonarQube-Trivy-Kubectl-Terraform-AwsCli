@@ -29,8 +29,8 @@ The script installs:
 Clone this repository and run the script:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Dinesh-Arivu/Shell-Script-To-Install-Java-Jenkins-Docker-SonarQube-Trivy-Kubectl-Terraform-AwsCli.git
+cd Shell-Script-To-Install-Java-Jenkins-Docker-SonarQube-Trivy-Kubectl-Terraform-AwsCli
 chmod +x install-devops-tools.sh
 ./install-devops-tools.sh
 ````
@@ -108,8 +108,5 @@ This project is licensed under the **MIT License** – free to use and modify.
 
 ---
 
-✅ With this script, you’ll get a **ready-to-use DevOps environment** in minutes!
-
-```
 
 
