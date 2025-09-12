@@ -108,5 +108,7 @@ This project is licensed under the **MIT License** – free to use and modify.
 
 ---
 
+![Devops Projects](https://github.com/user-attachments/assets/ce9af9eb-1cda-4fff-89cb-ea262bc7f97d)
+
 
 
